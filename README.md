@@ -4,9 +4,14 @@ Dark Souls 2 modding tool, generates an .xml file to compress later with Yabber 
 
 In this version the user interface is removed, resembling Yabber, now you can create .xml files from .xml files:
 
-mxx_xx_00_00_00      (Map Pieces)
-hxx_xx_xx_00_00      (Map Collisions)
-lxx_xx_xx_00_00      (Map collisions)
-txx_xx_xx_00_00      (Map textures)
-oxx_xxxx             (Objects)
-dds                  (Texture Folders)
+➔ mxx_xx_00_00_00      (Map Pieces)
+
+➔ hxx_xx_xx_00_00      (Map Collisions)
+
+➔ lxx_xx_xx_00_00      (Map collisions)
+
+➔ txx_xx_xx_00_00      (Map textures)
+
+➔ oxx_xxxx             (Objects)
+
+➔ dds                  (Texture Folders)
